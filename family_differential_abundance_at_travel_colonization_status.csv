@@ -1,0 +1,2 @@
+Coefficient;OTU;Phylum;Class;Order;Family;Value;Std.Error;DF;t-value;p-value;p.adjust;log10p;Change
+Travel;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;3.655890337;0.555645363;128;6.579539004;1.09E-09;1.05E-07;6.978414001;Increased

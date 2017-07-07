@@ -1,0 +1,13 @@
+Coefficient;OTU;Phylum;Class;Order;Family;Value;Std.Error;DF;t-value;p-value;p.adjust;log10p;Change
+Colonized;Otu000011;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;-0.446931724;0.117930674;129;-3.789783529;0.000230381;0.002211655;2.65528255;Decreased
+Colonized;Otu000020;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;-0.614562259;0.192980671;129;-3.184579349;0.001817679;0.009694288;2.013484098;Decreased
+Colonized;Otu000069;Firmicutes;Clostridia;Clostridiales;unclassified;-0.445712839;0.166652931;129;-2.674497453;0.008453196;0.03499315;1.456016961;Decreased
+Colonized;Otu000133;unclassified;unclassified;unclassified;unclassified;-0.496420224;0.160301849;129;-3.096784144;0.002400706;0.011523388;1.938419808;Decreased
+Colonized;Otu000157;Cyanobacteria;Melainabacteria;Gastranaerophilales;unclassified;-0.781022258;0.293361423;129;-2.662320935;0.008748288;0.03499315;1.456016961;Decreased
+Colonized;Otu000158;Tenericutes;Mollicutes;Anaeroplasmatales;Anaeroplasmataceae;-1.081589909;0.31504141;129;-3.433167437;0.000802448;0.006419585;2.192493065;Decreased
+Colonized;Otu000182;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;-1.367342733;0.309403274;129;-4.419289806;2.08E-05;0.000332504;3.478203714;Decreased
+Colonized;Otu000364;Firmicutes;Clostridia;unclassified;unclassified;-0.605333629;0.179391575;129;-3.374370449;0.00097751;0.006702929;2.173735408;Decreased
+Colonized;Otu000500;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;-1.065578976;0.320923673;129;-3.320350178;0.001169316;0.007015898;2.153916709;Decreased
+Colonized;Otu000045;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;1.768321954;0.378903309;129;4.666947779;7.55E-06;0.000181186;3.741875572;Increased
+Colonized;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;2.944346967;0.430279776;129;6.842866265;2.82E-10;1.35E-08;7.868991663;Increased
+Colonized;Otu000385;Firmicutes;Clostridia;Clostridiales;Family_XI;1.2907829;0.314969092;129;4.09812561;7.32E-05;0.000877871;3.056569464;Increased

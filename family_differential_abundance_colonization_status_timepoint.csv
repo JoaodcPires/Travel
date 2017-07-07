@@ -1,0 +1,15 @@
+Coefficient;OTU;Phylum;Class;Order;Family;Value;Std.Error;DF;t-value;p-value;p.adjust;log10p;Change
+M12;Otu000025;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;-1.13691865;0.335450937;125;-3.389224847;0.000938178;0.037527112;1.425654855;Decreased
+Before;Otu000045;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;-3.505508874;0.864585622;125;-4.05455375;8.77E-05;0.005264546;2.278639093;Decreased
+M6;Otu000113;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;-0.90629271;0.287976965;125;-3.147101403;0.002061863;0.041036234;1.386832498;Decreased
+M12;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;-3.844500078;0.903343655;125;-4.255855517;4.05E-05;0.004666253;2.33103176;Decreased
+M3;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;-2.673321699;0.64236488;125;-4.161687204;5.83E-05;0.004666253;2.33103176;Decreased
+M6;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;-3.558287151;0.74673313;125;-4.765138985;5.15E-06;0.001235084;2.908303504;Decreased
+Before;Otu000223;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;-1.938802187;0.581369726;125;-3.334886735;0.001123555;0.038521886;1.414292462;Decreased
+M3;Otu000794;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;-1.981954655;0.621925135;125;-3.186805846;0.00181727;0.041036234;1.386832498;Decreased
+M6;Otu000794;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;-2.486665735;0.674229962;125;-3.688156678;0.000335511;0.016104507;1.793052561;Decreased
+M12;Otu000006;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;1.081931211;0.347031236;125;3.117676738;0.002262479;0.041036234;1.386832498;Increased
+Non Colonized;Otu000011;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;0.507428079;0.156576436;125;3.240769119;0.001527922;0.041036234;1.386832498;Increased
+M12;Otu000056;Proteobacteria;Gammaproteobacteria;Aeromonadales;Succinivibrionaceae;1.751942963;0.565197192;125;3.099702168;0.00239378;0.041036234;1.386832498;Increased
+Non Colonized;Otu000182;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;1.26455948;0.403239104;125;3.136004091;0.002135501;0.041036234;1.386832498;Increased
+Non Colonized;Otu000500;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;1.215109634;0.384675531;125;3.158791077;0.001986849;0.041036234;1.386832498;Increased

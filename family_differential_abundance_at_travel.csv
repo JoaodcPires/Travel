@@ -1,0 +1,10 @@
+Coefficient;OTU;Phylum;Class;Order;Family;Value;Std.Error;DF;t-value;p-value;p.adjust;log10p;Change
+Travel;Otu000069;Firmicutes;Clostridia;Clostridiales;unclassified;-0.579934023;0.166471707;129;-3.4836792;0.000676008;0.010816128;1.965928188;Decreased
+Travel;Otu000133;unclassified;unclassified;unclassified;unclassified;-0.487393881;0.154249151;129;-3.159783225;0.001967372;0.016958418;1.770614675;Decreased
+Travel;Otu000182;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;-0.890056029;0.314716558;129;-2.82811948;0.005430377;0.028962011;1.538171291;Decreased
+Travel;Otu000228;Proteobacteria;Alphaproteobacteria;unclassified;unclassified;-0.961146742;0.306461438;129;-3.136273022;0.002119802;0.016958418;1.770614675;Decreased
+Travel;Otu000007;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;0.852118699;0.284315743;129;2.99708588;0.003270282;0.022424792;1.649271584;Increased
+Travel;Otu000045;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;1.587868099;0.356662361;129;4.452020377;1.82E-05;0.000437181;3.359338782;Increased
+Travel;Otu000113;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;0.572917766;0.195518126;129;2.930253972;0.004006816;0.024040896;1.619049358;Increased
+Travel;Otu000181;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;2.704016703;0.449406713;129;6.016858719;1.72E-08;8.25E-07;6.083478203;Increased
+Travel;Otu000223;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;1.370568058;0.427208608;129;3.208193917;0.001685026;0.016958418;1.770614675;Increased
